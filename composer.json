@@ -15,9 +15,6 @@
             "homepage": "https://crowdin.com/project/magento-2"
         }
     ],
-    "require": {
-        "magento/framework": "100.*"
-    },
     "type": "magento2-language",
     "autoload": {
         "files": [
